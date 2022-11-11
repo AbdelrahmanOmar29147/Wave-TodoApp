@@ -33,18 +33,20 @@
 
 @media (max-width: 1200px) {
   .todos__single {
-    width: 40%;
+    width: 90%;
   }
 }
 
-@media (max-width: 700px) {
-  .input {
-    width: 95%;
-  }
-  .todos {
-    width: 95%;
-  }
+@media (max-width: 680px) {
   .todos__single {
-    width: 100%;
+    width: 80%;
+    padding: 10px;
+    .icon {
+      font-size: 16px;
+    }
+    .todos__single--text {
+      font-size: 18px;
+      padding: 0px 0px;
+    }
   }
 }
