@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Wave-TodoApp/static/css/main.923b809a.css",
+    "main.css": "/Wave-TodoApp/static/css/main.d1a5e130.css",
     "main.js": "/Wave-TodoApp/static/js/main.d708ecbf.js",
     "index.html": "/Wave-TodoApp/index.html",
-    "main.923b809a.css.map": "/Wave-TodoApp/static/css/main.923b809a.css.map",
+    "main.d1a5e130.css.map": "/Wave-TodoApp/static/css/main.d1a5e130.css.map",
     "main.d708ecbf.js.map": "/Wave-TodoApp/static/js/main.d708ecbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.923b809a.css",
+    "static/css/main.d1a5e130.css",
     "static/js/main.d708ecbf.js"
   ]
 }
