@@ -33,8 +33,8 @@ const App: React.FC = () => {
       return;
     }
 
-    let add,
-      active = todoS,
+    let add;
+    const active = todoS,
       complete = completedTodoS;
 
     // Source
